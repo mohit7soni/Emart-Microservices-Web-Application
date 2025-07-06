@@ -1,3 +1,6 @@
+![Image](https://github.com/user-attachments/assets/defd43a0-ea44-4bc3-b31c-56dd16e426fa)
+
+
 A full-stack microservices application using Java and Node.js, 
 containerized via Docker and hosted on a virtual machine using Vagrant.
 Each service is isolated in its own container and exposed through VM port
